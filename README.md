@@ -3,9 +3,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=C97EFF&center=true&vCenter=true&width=600&lines=💻+Full-Stack+Developer;🧠+AI+Enthusiast;🌍+Creator+and+Innovator" alt="Typing SVG" />
-  </a>
+ 
 </p>
 
 ---
@@ -63,12 +61,12 @@ A **Progressive Web App (PWA)** integrating **AI** to empower women entrepreneur
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kananacrystal&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C97EFF&icon_color=C97EFF" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kananacrystal&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C97EFF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CKanana&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C97EFF&icon_color=C97EFF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CKanana&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C97EFF" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kananacrystal&theme=midnight-purple&hide_border=true&background=0D1117&stroke=C97EFF&ring=C97EFF&fire=FF79C6&currStreakLabel=FFB6FF" />
+  <img src="https://streak-stats.demolab.com?user=CKanana&theme=midnight-purple&hide_border=true&background=0D1117&stroke=C97EFF&ring=C97EFF&fire=FF79C6&currStreakLabel=FFB6FF" />
 </p>
 
 ---
