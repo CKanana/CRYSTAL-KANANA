@@ -1,69 +1,92 @@
-<!-- Profile Banner -->
-![Glassy Green Banner](https://capsule-render.vercel.app/api?type=waving&color=0:56ab2f,100:a8e063&height=230&section=header&text=Crystal%20Kanana%20💚&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20|%20AI%20Innovator%20|%20Problem-Solver&descAlignY=60&descAlign=50)
+<!-- Header -->
+<h1 align="center">💜 Hey there, I'm Crystal Kanana!</h1>
+
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=C97EFF&center=true&vCenter=true&width=600&lines=💻+Full-Stack+Developer;🧠+AI+Enthusiast;🌍+Creator+and+Innovator" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-### 👋 Hi there, I'm **Crystal Kanana!**
-
-💻 **Full-Stack Developer | AI Innovator | Problem-Solver**  
-Welcome to my GitHub!  
-I’m a **Computer Science student** passionate about building impactful web applications that combine creativity, technology, and purpose.  
-I love creating user-centered, intelligent, and sustainable digital experiences. 🌿
+### 👋 About Me  
+I'm **Crystal Kanana**, a passionate **Full-Stack Developer** and **Computer Science student** from Kenya.  
+I love building impactful digital solutions that merge **AI**, **web development**, and **human-centered design**.  
+My mission is to create tools that **empower communities** and **inspire innovation**.
 
 ---
 
-### 🧩 Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%20%26%20ML-5A20CB?style=for-the-badge&logo=python&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+### 🛠️ Tech Stack  
+💻 **Frontend:** HTML, CSS, JavaScript, React  
+⚙️ **Backend:** Node.js, Express.js, MySQL, MongoDB  
+🧠 **AI & APIs:** RESTful API integration, ML-based insights  
+🎨 **Design:** Modern, accessible, and responsive UIs  
+🚀 **Deployment:** Netlify, Render, GitHub Pages  
 
 ---
 
-### 🌟 Featured Projects
+### 💜 Featured Projects  
 
-#### ⚡ **EcoTrack**
-> *An AI-powered Energy Management System helping Kenyan businesses reduce electricity costs and carbon emissions through intelligent analytics and forecasting.*
-
-#### 🍰 [**Flavor Fusion**](https://kananacrystal.netlify.app/crystal)
-> *A modern bakery website featuring recipes, bakery collections, and interactive design for food lovers and small businesses.*
-
-#### 🎓 **Kenya Christian School for the Deaf – E-Learning Platform**
-> *An inclusive e-learning system enabling deaf students to learn using sign-language-friendly interfaces and multimedia lessons.*
-
-#### 💬 **Campus Connect**
-> *A Progressive Web App (PWA) designed to connect students, clubs, and organizations on campus — promoting collaboration, mentorship, and event engagement with offline capability.*
-
-#### 💼 **SheFund**
-> *A Progressive Web App (PWA) integrating AI to empower women entrepreneurs by connecting them with funding, mentorship, and personalized business insights through intelligent recommendations.*
+#### ⚡ EcoTrack  
+An **AI-powered Energy Management System** helping Kenyan businesses reduce electricity costs and carbon emissions through smart analytics, forecasting, and recommendations.
 
 ---
 
-### 🌱 Currently Exploring
-- 🌐 AI integration in real-world web applications  
-- ⚡ Energy optimization & sustainability tech  
-- 📊 Advanced data analytics & predictive modeling  
+#### 🍰 [Flavor Fusion](https://kananacrystal.netlify.app/crystal)  
+A modern bakery website with delicious recipes, bakery collections, and interactive design — connecting bakers and dessert lovers.
 
 ---
 
-### 📫 Let’s Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crystal-kanana-8595002b9/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=netlify&logoColor=white)](https://kananacrystal.netlify.app/crystal)
-[![Email](https://img.shields.io/badge/Email-kananacrystal6822%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kananacrystal6822@gmail.com)
+#### 🎓 Kenya Christian School for the Deaf – E-Learning Platform  
+An inclusive platform for **deaf students**, providing **sign-language-friendly** learning experiences and multimedia lessons.
 
 ---
 
-> ✨ *“Technology should not just solve problems — it should inspire hope.”*
+#### 💬 Campus Connect  
+A **Progressive Web App (PWA)** that connects students, clubs, and organizations — promoting mentorship, event engagement, and collaboration.  
 
 ---
 
-<!-- Footer Wave -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:56ab2f,100:a8e063&height=120&section=footer)
+#### 💼 SheFund  
+A **Progressive Web App (PWA)** integrating **AI** to empower women entrepreneurs with funding opportunities, mentorship, and intelligent business insights.
+
+---
+
+### 🌱 Currently Exploring  
+- AI-driven energy and sustainability solutions  
+- Predictive analytics and real-time web intelligence  
+- Human-centered software innovation  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kananacrystal&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C97EFF&icon_color=C97EFF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kananacrystal&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C97EFF" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kananacrystal&theme=midnight-purple&hide_border=true&background=0D1117&stroke=C97EFF&ring=C97EFF&fire=FF79C6&currStreakLabel=FFB6FF" />
+</p>
+
+---
+
+### 📫 Let’s Connect!  
+
+<p align="center">
+  <a href="mailto:kananacrystal6822@gmail.com">
+    <img src="https://img.shields.io/badge/Email-C97EFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/crystal-kanana-8595002b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kananacrystal.netlify.app/crystal">
+    <img src="https://img.shields.io/badge/Portfolio-7E22CE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+> 💜 *“Technology should not just solve problems — it should inspire hope.”* ✨
